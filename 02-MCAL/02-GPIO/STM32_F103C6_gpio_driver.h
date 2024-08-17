@@ -2,7 +2,7 @@
  * STM32_F10C6_gpio_driver.h
  *
  *  Created on: Aug 16, 2024
- *      Author: user
+ *      Author: Eng.Kareem Khaled
  */
 
 #ifndef INC_STM32_F103C6_GPIO_DRIVER_H_
